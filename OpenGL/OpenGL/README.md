@@ -28,11 +28,11 @@ OpenGL Practice
 
  # MakingDrawTool 
 
-![SolarSystem](./Images/SolarSystem.png)
+![SolarSystem](./Images/SolarSystem.PNG)
 
  # SolarSystem 
 
-![AnalogClock](./Images/AnalogClock.png)
+![AnalogClock](./Images/AnalogClock.PNG)
 
  # AnalogClock 
 
